@@ -1,6 +1,6 @@
 # Platformer demo
 
-This project is based on a classic 2D videogame (Super mario bros). This is still not finished but it's a work in progress.
+This project is based on a classic 2D videogame (Super mario bros). Work in progress.
 
 # Technologies
 
